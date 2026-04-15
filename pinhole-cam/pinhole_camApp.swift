@@ -11,7 +11,7 @@ import SwiftUI
 struct pinhole_camApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CameraMainView()
         }
     }
 }
